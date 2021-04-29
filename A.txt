@@ -4,6 +4,7 @@ public void main()
 {
 println("")
 }
-
+public void love(){
+be careful }
 
 }
