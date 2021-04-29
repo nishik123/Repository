@@ -2,5 +2,8 @@ class A {
 
 public void main()
 {
+println("")
 }
+
+
 }
